@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+
+  padding: 2rem;
+  
+}
+img {
+  width: 251px;
+  height: 150px;
+  margin-top: 15px;
+  margin-left: 90px;
+}
+ ul {
+  display: flex;
+  justify-content: center;
+  width: 1900px;
+  height: auto;
+  background-color: palevioletred;
+  text-align: center;
+  align-items: center;
+ }
+ li {
+  list-style: none;
+ }
+ p {
+  position: relative;
+  left: 37px;
+  font-size: 20px;
+ }
+
+
